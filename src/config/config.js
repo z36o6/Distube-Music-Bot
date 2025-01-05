@@ -8,7 +8,7 @@ module.exports = {
     youtubeApiKey: process.env.AIzaSyDekrJzUSrL1QLmhjsd9MyLgh6ofvf8UXU,
     mongoUri: process.env.mongodb+srv.//z36o6:Aa_123456@z36o6.ha7kd.mongodb.net/?retryWrites=true&w=majority&appName=z36o6,
     spotify: {
-        clientId: process.env.SPOTIFY_CLIENT_ID,
+        clientId: process.env.dcdf5fe8bd084f59acc72e939b8abc75,
         clientSecret: process.env.SPOTIFY_CLIENT_SECRET,
     },
     cookies:{
