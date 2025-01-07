@@ -5,8 +5,8 @@ module.exports = {
     token: '',
     clientId: '1273230302822797312',
     guildId: '1106591466651922502',
-    youtubeApiKey: process.env.AIzaSyDekrJzUSrL1QLmhjsd9MyLgh6ofvf8UXU,
-    mongoUri: process.env.mongodb+srv.//z36o6:Aa_123456@z36o6.ha7kd.mongodb.net/?retryWrites=true&w=majority&appName=z36o6,
+    youtubeApiKey: AIzaSyDekrJzUSrL1QLmhjsd9MyLgh6ofvf8UXU,
+    mongoUri: mongodb+srv.//z36o6:Aa_123456@z36o6.ha7kd.mongodb.net/?retryWrites=true&w=majority&appName=z36o6,
    
     cookies:{
         domain: ".youtube.com",
