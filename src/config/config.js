@@ -5,14 +5,13 @@ module.exports = {
     token: '',
     clientId: '1273230302822797312',
     guildId: '1106591466651922502',
-    youtubeApiKey: process.env.AIzaSyDekrJzUSrL1QLmhjsd9MyLgh6ofvf8UXU,
-    mongoUri: process.env.mongodb+srv.//z36o6:Aa_123456@z36o6.ha7kd.mongodb.net/?retryWrites=true&w=majority&appName=z36o6,
-   spotify = {
-        clientId: process.env.dcdf5fe8bd084f59acc72e939b8abc75,
-        clientSecret: process.env.89480622a0604925b3d2813c864b5c12,
+    youtubeApiKey: process.env.YOUTUBE_API_KEY,
+    mongoUri: process.env.MONGO_URI,
+    spotify: {
+        clientId: process.env.SPOTIFY_CLIENT_ID,
+        clientSecret: process.env.SPOTIFY_CLIENT_SECRET,
     },
-
-    cookies = {
+    cookies:{
         domain: ".youtube.com",
         expirationDate: 1757764090.235338,
         hostOnly: false,
